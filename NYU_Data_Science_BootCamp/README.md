@@ -14,12 +14,9 @@ During the boot camp, the following skills and tools were utilized:
 
 - **Programming**: Python
 - **Data Analysis**: Pandas, NumPy
-- **Visualization**: Matplotlib, Seaborn, Tableau
-- **Machine Learning**: scikit-learn, TensorFlow, Keras
-- **Big Data**: Hadoop, Spark
-- **Databases**: SQL, MongoDB
+- **Machine Learning**: TensorFlow, Pytorch
+- **Databases**: SQL
 - **Version Control**: Git, GitHub
-- **Deployment**: Flask, Streamlit
 ---
 
 ## 📂 Repository Structure
