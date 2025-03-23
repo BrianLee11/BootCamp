@@ -5,6 +5,8 @@ url: https://www.kaggle.com/datasets/shrutibhargava94/india-air-quality-data?res
 1. Check Git Status: Open the Terminal
 git status
 
+git reset --hard
+
 2. Add the File to Git Tracking
 git add data.csv
 
