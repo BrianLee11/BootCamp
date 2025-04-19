@@ -1,0 +1,5 @@
+.\.venv\Scripts\Activate
+
+pip install notebook ipython-sql sqlalchemy pandas
+
+ jupyter notebook
