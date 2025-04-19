@@ -1,0 +1,10 @@
+
+(base) PS D:\Brian\PythonLab\BootCamp\NYU_LeetCode_Bootcamp>
+
+1. create a new virtual environment
+python -m venv venv
+
+2. activate the virtual environment
+3. install the packages in the requirements.txt file
+4. run the jupyter notebook
+

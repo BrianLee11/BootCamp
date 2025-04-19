@@ -1,0 +1,28 @@
+This data is from Kaggle
+Title: "India Air Quality Data"
+url: https://www.kaggle.com/datasets/shrutibhargava94/india-air-quality-data?resource=download
+
+1. Check Git Status: Open the Terminal
+git status
+
+git reset --hard
+
+2. Add the File to Git Tracking
+git add data.csv
+
+or add all files in the directory:
+git add .
+
+git add NYU_Data_Science_BootCamp/Group_Projects
+
+3. Commit the File
+git commit -m "Added data.csv to the project"
+
+4. Push the File to GitHub
+git push origin main
+
+5. Verify on GitHub
+
+
+
+
